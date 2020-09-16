@@ -1,0 +1,4 @@
+17:09:57,066 DEBUG devpinoyLogger:40 - Loaded the Config property file
+17:09:57,071 DEBUG devpinoyLogger:45 - Loaded the Object property file
+17:10:58,423 DEBUG devpinoyLogger:51 - Loaded Firefox Driver
+17:12:17,132 DEBUG devpinoyLogger:14 - inside Login Test

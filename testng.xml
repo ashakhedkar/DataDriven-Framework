@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="DataDriven FrameWork for Facebook">
+
+<test name="Login test">
+    <classes>
+        <class name="dd_core.TestCore" ></class>  
+    </classes>
+</test>
+
+<!-- 
+<test name="Profile test 2">
+    <classes>
+        <class name="test_2" ></class>  
+    </classes>
+</test>
+ -->
+
+</suite>

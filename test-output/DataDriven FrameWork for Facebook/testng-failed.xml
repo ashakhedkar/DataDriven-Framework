@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [DataDriven FrameWork for Facebook]">
+  <test name="Login test">
+    <classes>
+      <class name="dd_core.TestCore"/>
+    </classes>
+  </test> <!-- Login test -->
+</suite> <!-- Failed suite [DataDriven FrameWork for Facebook] -->
